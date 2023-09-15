@@ -1,0 +1,76 @@
+
+
+.nav{
+    height: 80px;
+    line-height: 80px;
+    width: 90%;
+    background-color: red;
+    margin-left: 5%;
+    
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-top: 15px;
+}
+:hover .new-btns{
+    background-color: grey;
+    padding: 10px;
+}
+.menu{
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+.banner{
+    background-image: url(images/R\ \(1\).jpg);
+    height: 500px;
+    width: 90%;
+    margin-left: 5%;
+    background-size: cover;
+}
+.rec{
+    margin-right: 2.5%;
+    text-align: center;
+    height: 330px;
+    width: 22%;
+    background-color: rgb(192, 231, 231);
+    border-radius: 10px;
+}
+:hover.rec{
+    background-color: rgb(85, 236, 166);
+}
+.four{
+    display: flex;
+    margin-left: 5%;
+}
+.foter{
+    height: 250px;
+    width: 30%;
+    margin-right: 3%;
+    background-color: rgb(238, 238, 114);
+    text-align: center;
+    padding-top: 100px;
+    border-radius: 10px;
+
+}
+:hover.foter{
+    background-color: aqua;
+}
+.foters{
+    height: 330px;
+    width: 30%;
+    background-color: rgb(243, 179, 206);
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 20px;
+
+}
+:hover.foters{
+    background-color: greenyellow;
+}
+.last-class{
+    margin-left: 5%;
+    display: flex;
+}
